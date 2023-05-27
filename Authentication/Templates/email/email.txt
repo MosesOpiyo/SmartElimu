@@ -1,0 +1,5 @@
+Hello {{name}}
+
+We are happy to welcome you to your first step with Eazz, your auto generated password is:
+{{password}}
+We hope to eazz your journey with Eazz.
